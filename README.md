@@ -83,8 +83,4 @@ To setup and run AI Gym Tracker application, follow these steps:
 7) Remember to deactivate the virtual environment once you're done by running the following command: `deactivate`. This will exit the virtual environment and return you to your system's default Python environment. Have fun 😄.
 
 
-## Authors
- 
-- [Alberto Cotumaccio](https://github.com/albertoCotumaccio)
-- [Alessandro Di Patria](https://github.com/AlessandroDiPatria)
 
